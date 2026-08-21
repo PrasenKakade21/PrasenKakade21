@@ -102,15 +102,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasenKakade21&show_icons=true&theme=tokyonight&hide_border=true" alt="" height="165"/>
-</p>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PrasenKakade21&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=PrasenKakade21&layout=compact&langs_count=5&theme=dark)
-
-
----
 
 <p align="center">
   <i>📫 Reach out at <a href="mailto:prasenkakade21@gmail.com">prasenkakade21@gmail.com</a> — always open to interesting projects and collaborations!</i>
