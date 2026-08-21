@@ -105,13 +105,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasenKakade21&show_icons=true&theme=tokyonight&hide_border=true" alt="Prasen's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasenKakade21&theme=tokyonight&hide_border=true" alt="Prasen's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrasenKakade21&show_icons=true&theme=tokyonight&hide_border=true" alt="" height="165"/>
 </p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PrasenKakade21&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=PrasenKakade21&layout=compact&langs_count=5&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasenKakade21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
